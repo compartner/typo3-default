@@ -37,7 +37,7 @@
     "helhum/typo3-console": "*",
 
     "mfc/oauth2": "*",
-    "clickstorm/cs_seo": "*",
+    "clickstorm/cs-seo": "*",
     "gridelementsteam/gridelements": "*"
   },
 
